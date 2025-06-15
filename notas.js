@@ -16,4 +16,4 @@ function calculoPromedio(notas){
 
 }
 
-console.log("Promedio de notas:", calculoPromedio(notasAlumno));// Mostramos en consola el promedio de las notas
+console.log("Promedio de notas:", calculoPromedio(notasAlumno));// Muestra en consola el promedio de las notas
